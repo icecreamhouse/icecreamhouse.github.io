@@ -1,8 +1,8 @@
 
 var main = function(){
-	$('.plane').click(function(){
+	$('plane').click(function(){
 	/*document.getElementById("one").innerHTML = 'new text'; */
-	$('.one').animate({
+	$('one').animate({
 	
 	right: "100px"
 	},200);
