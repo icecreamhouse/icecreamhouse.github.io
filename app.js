@@ -9,6 +9,6 @@ var main = function(){
 	});
 
 
-}
+};
 $(document).ready(main);
 /*<script src="jquery.min.js"></script>*/
