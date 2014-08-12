@@ -4,7 +4,7 @@ window.onload = function() {
 
 alert("welcome");
 
-$("#plane").click(function() {
+$("#plane1").click(function() {
 
 alert("clicked");
 });
