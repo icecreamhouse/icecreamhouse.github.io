@@ -1,6 +1,6 @@
 
 
-window.onload = function() {
+var main = function() {
 
 
 
@@ -10,3 +10,5 @@ alert("clicked");
 });
 
 }
+
+$(document).ready(main);
