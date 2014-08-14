@@ -4,7 +4,7 @@ var main = function() {
 
 
 
-$("#plane1").click(function() {
+$(".jumbotron").click(function() {
 
 alert("clicked");
 });
