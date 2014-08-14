@@ -9,7 +9,7 @@ $(".jumbotron").click(function() {
 alert("clicked");
 var a = $('currentActive').next();
 $('currentActive').removeClass('active');
-a.addClass('active');
+$('.two').addClass('active');
 });
 
 }
