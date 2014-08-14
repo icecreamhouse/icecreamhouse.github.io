@@ -7,7 +7,7 @@ var main = function() {
 $(".jumbotron").click(function() {
 
 alert("clicked");
-$('#one').removeClass('active');
+$('currentActive').removeClass('active');
 $('#two').addClass('active');
 });
 
