@@ -17,7 +17,7 @@ $("#browse").click(function() {
 });
 
 $(".icon-menu").click(function(){
-	$(".icon-menu".toggle();
+	$(".icon-menu").toggle();
 
 
 });
