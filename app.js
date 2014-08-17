@@ -12,7 +12,7 @@ alert("clicked");
 });
 $("#browse").click(function() {
 	alert("browse clicked.");
-
+	$("#browse").toggle();
 
 });
 }
