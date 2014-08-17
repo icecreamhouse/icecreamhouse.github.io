@@ -15,7 +15,7 @@ $("#browse").click(function() {
 
 
 });
-
+}
 
 
 $(document).ready(main);
