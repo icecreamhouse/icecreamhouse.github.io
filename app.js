@@ -13,5 +13,12 @@ $('.two').addClass('active');
 });
 
 }
+$("#browse").click(function() {
+	alert("browse clicked.");
+
+
+});
+
+
 
 $(document).ready(main);
