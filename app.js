@@ -9,7 +9,7 @@ $(".jumbotron").click(function() {
 alert("clicked");
 
 
-}
+});
 $("#browse").click(function() {
 	alert("browse clicked.");
 
