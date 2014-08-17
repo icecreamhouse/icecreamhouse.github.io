@@ -15,6 +15,14 @@ $("#browse").click(function() {
 	$("#browse").toggle();
 
 });
+
+$(."icon-menu").click(function(){
+	alert("menu clicked");
+
+
+});
+
+
 }
 
 
