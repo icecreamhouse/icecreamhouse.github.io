@@ -7,7 +7,7 @@ var main = function() {
 $(".jumbotron").click(function() {
 
 alert("clicked");
-$(."one").toggle();
+$(."one").remove();
 
 });
 $("#browse").click(function() {

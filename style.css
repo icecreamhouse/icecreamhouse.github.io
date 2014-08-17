@@ -27,10 +27,3 @@ font-family: Helvetica;
   display: inline;
 }
 
-.pull-right:hover{
-	background:yellow;
-}
-
-.pull-left:hover{
-	background:yellow;
-}
