@@ -17,7 +17,7 @@ $("#browse").click(function() {
 });
 
 $(".icon-menu").click(function(){
-	alert("menu clicked");
+	$(".icon-menu".toggle();
 
 
 });
