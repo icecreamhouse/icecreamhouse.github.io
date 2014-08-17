@@ -16,7 +16,7 @@ $("#browse").click(function() {
 
 });
 
-$(."icon-menu").click(function(){
+$(".icon-menu").click(function(){
 	alert("menu clicked");
 
 
