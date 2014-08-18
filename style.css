@@ -37,7 +37,8 @@ font-family: Helvetica;
   padding-top: 25px;
   text-transform: uppercase;
 }
-#menu-block {
+.menu-block {
 height:200px;
+width:100%;
 background-color:black;
 }
