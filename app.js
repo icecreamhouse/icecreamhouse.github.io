@@ -11,7 +11,9 @@ alert("clicked");
 
 });
 $("#browse").click(function() {
-	$(".icon-menu").toggle();
+	$(".icon-menu").animate({
+		right: "200px"
+	},200);
 
 });
 
