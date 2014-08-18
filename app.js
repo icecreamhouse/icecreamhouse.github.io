@@ -12,7 +12,7 @@ alert("clicked");
 });
 $("#browse").click(function() {
 	$(".one").animate({
-		right: "200px"
+		left: "-200px"
 	},200);
 
 });
