@@ -11,7 +11,7 @@ alert("clicked");
 
 });
 $("#browse").click(function() {
-	$(".icon-menu").animate({
+	$(".one").animate({
 		right: "200px"
 	},200);
 
