@@ -14,8 +14,8 @@ $("#browse").click(function(){
     $('#contact-wrap').animate(
         { right: '0' }, 
         500); 
-	$('.nav').animate(
-		{ right: '100'},
+	$('#contact-wrap').animate(
+		{ right: '-100'},
 		500);
 
 });
