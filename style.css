@@ -37,3 +37,7 @@ font-family: Helvetica;
   padding-top: 25px;
   text-transform: uppercase;
 }
+#menu-block {
+height:200px;
+background-color:black;
+}
