@@ -42,3 +42,11 @@ height:20px;
 width:100%;
 background-color:blue;
 }
+#contact-wrap 
+{     
+    height: 30px; 
+    width:10px;
+    border:solid 1px black; 
+    display: block;
+    position:absolute;right:-200px;
+}

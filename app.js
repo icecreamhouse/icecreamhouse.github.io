@@ -10,11 +10,10 @@ alert("clicked");
 
 
 });
-$("#browse").click(function() {
-	$(".one").animate({
-		left: "-200px"
-	},200);
-
+$("#browse").click(function(){             
+    $('#contact-wrap').animate(
+        { right: '0' }, 
+        500);             
 });
 
 $(".icon-menu").click(function(){
