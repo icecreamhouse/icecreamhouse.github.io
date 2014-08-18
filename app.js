@@ -14,7 +14,7 @@ $("#browse").click(function(){
     $('#contact-wrap').animate(
         { right: '0' }, 
         500); 
-	$('.pull-left').animate(
+	$('.nav').animate(
 		{ right: '100'},
 		500);
 
