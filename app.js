@@ -15,7 +15,7 @@ $("#browse").click(function(){
 	
 });
 $("#home").click(function(){             
-    $(".image1").hide();
+    $(".image1").toggle();
 	
 });
 $(".icon-menu").click(function(){
