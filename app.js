@@ -12,11 +12,14 @@ alert("clicked");
 });
 $("#browse").click(function(){             
     $(".one").prepend('Here is the ');
-	$("#signup").addClass("active");
+	
 });
-
+$("#home").click(function(){             
+    $(".image1").hide();
+	
+});
 $(".icon-menu").click(function(){
-	$(".icon-menu").remove();
+	$("#signup").addClass("active");
 
 
 });
