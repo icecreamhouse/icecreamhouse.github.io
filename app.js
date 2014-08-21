@@ -11,7 +11,7 @@ alert("clicked");
 
 });
 $("#browse").click(function(){             
-    $(."one").append(' is here');
+    $(".one").append(' is here');
 	
 });
 
