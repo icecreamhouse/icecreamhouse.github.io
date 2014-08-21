@@ -11,12 +11,12 @@ alert("clicked");
 
 });
 $("#browse").click(function(){             
-    $(".one").append(' is here');
+    $(".one").prepend('Here is the ');
 	
 });
 
 $(".icon-menu").click(function(){
-	$(".icon-menu").toggle();
+	$(".icon-menu").remove();
 
 
 });
