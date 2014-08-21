@@ -12,7 +12,7 @@ alert("clicked");
 });
 $("#browse").click(function(){             
     $(".one").prepend('Here is the ');
-	$("#signup").toggleClass("active");
+	$("#signup").addClass("active");
 });
 
 $(".icon-menu").click(function(){
