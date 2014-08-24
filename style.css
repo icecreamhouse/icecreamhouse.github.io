@@ -1,56 +1,8 @@
-h1 {
-color:black;
-font-family: Helvetica;
-
-}
-
-.jumbotron {
-	
-	background-image:url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1QLGdH7U9K04wZppj49mGrxwrWhMcLMnTZUdqozZ7OvNqIuYnMg');
-	height:1000px;
-	color: red;
-	}
-	
-.row {
-	width:100%;
-	
-}	
-
-.nav a {
-  color: #5a5a5a;
-  font-size: 11px;
-  font-weight: bold;
-  padding: 14px 10px;
-  text-transform: uppercase;
-}
-.nav li {
-  display: inline;
-}
-
-.icon-menu {
-  
-  cursor: pointer;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
-  padding-bottom: 25px;
-  padding-left: 25px;
-  padding-top: 25px;
-  text-transform: uppercase;
-}
-.menu-block {
-height:20px;
-width:100%;
+body {
 background-color:blue;
-}
-#contact-wrap 
-{     
-    height: 300px; 
-    width:100px;
-    border:solid 1px black; 
-    display: block;
-    position:absolute;right:200px;
+
 }
 
-#active{
-	color:red;
+.inner-cover {
+	text-align:center;
 }
