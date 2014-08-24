@@ -9,12 +9,12 @@ background-color:#696969;
 	word-wrap:break-word;
 	position: absolute;
     height: 200px;
-    
+    margin: -100px 0 0 -400px;
     top: 50%;
     left: 50%;
 }
 
 .other {
-margin: -100px 0 0 -100px;
+
 
 }
