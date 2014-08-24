@@ -1,8 +1,10 @@
 body {
-background-color:blue;
+background-color:gray;
 
 }
 
 .inner-cover {
 	text-align:center;
+	width: 200px;
+	word-wrap:break-word;
 }
