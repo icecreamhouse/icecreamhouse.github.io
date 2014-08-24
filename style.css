@@ -5,11 +5,16 @@ background-color:#696969;
 
 .inner-cover {
 	text-align:center;
-	width: 400px;
+	width: 600px;
 	word-wrap:break-word;
 	position: absolute;
     height: 200px;
-    margin: -100px 0 0 -100px;
+    
     top: 50%;
     left: 50%;
+}
+
+.other {
+margin: -100px 0 0 -100px;
+
 }
