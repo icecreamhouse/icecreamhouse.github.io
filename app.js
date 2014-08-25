@@ -4,7 +4,7 @@ var main = function() {
 
 
 
-$(".btn btn-lg btn-default").click(function() {
+$("#button1").click(function() {
 
 alert("clicked");
 
