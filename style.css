@@ -16,5 +16,6 @@ background-color:#696969;
 	color:white;
 }
 #pic1 {
-	width:50%;
+		width:100%;
+		height:auto;
 }
