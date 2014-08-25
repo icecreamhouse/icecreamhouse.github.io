@@ -4,7 +4,7 @@ var main = function() {
 
 
 
-$(".jumbotron").click(function() {
+$(".btn btn-lg btn-default").click(function() {
 
 alert("clicked");
 
