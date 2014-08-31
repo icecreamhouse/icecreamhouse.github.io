@@ -6,7 +6,7 @@ var main = function() {
 
 $("#button1").click(function() {
 
-alert("clicked");
+alert("brrrm!");
 
 
 });
